@@ -1,11 +1,11 @@
 {
-  "unlock-title-a": "Unlock LP Tokens",
-  "unlock-title-b": "Withdrawable LP Tokens",
+  "unlock-title-a": "Mở khóa mã thông báo LP",
+  "unlock-title-b": "Mã thông báo LP có thể rút",
 
-  "unlock-msg-a": "You'll unlock",
-  "unlock-msg-b": "Once you’ve unlocked your LP tokens you can:",
-  "unlock-msg-c": "Withdraw your liquidity on the “Pools” page under “My Pools”",
-  "unlock-msg-d": "Or stake your LP tokens into the generator to continue receiving dual rewards",
+  "unlock-msg-a": "Bạn sẽ mở khóa",
+  "unlock-msg-b": "Khi bạn đã mở khóa mã thông báo LP của mình, bạn có thể:",
+  "unlock-msg-c": "Rút thanh khoản của bạn trên trang “Bể” trong “Bể của tôi”",
+  "unlock-msg-d": "Hoặc đặt cọc mã thông báo LP của bạn vào Generator để tiếp tục nhận được phần thưởng kép",
 
-  "unlock-button-a": "Confirm Unlocking LP Tokens"
+  "unlock-button-a": "Xác nhận mở khóa mã thông báo LP"
 }
